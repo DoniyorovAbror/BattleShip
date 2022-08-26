@@ -1,3 +1,3 @@
-# BattleShip
+BattleShip
 
 Игра Морской Бой
