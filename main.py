@@ -219,11 +219,11 @@ class Game:
 
     def greet(self):
         print('-' * 20)
-        print('     Игра Морской Бой    ')
+        print('  Игра Морской Бой')
         print('-' * 20)
-        print('нужно вводить координаты X Y')
-        print('x - Строка')
-        print('Y - Столбец')
+        print('   нужно вводить\n   координаты X Y')
+        print('   x - Строка')
+        print('   Y - Столбец')
 
     def loop(self):
         num = 0
